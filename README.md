@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IshanNadeera
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning at SLIIT
+- 🌱 I’m currently learning Software Engineering @ SLIIT
 - 📫 How to reach me - fernando.ishannadeera@gmail.com
 
 <!---
