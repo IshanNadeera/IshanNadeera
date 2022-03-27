@@ -18,7 +18,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ishannadeera&show_icons=true&locale=en" alt="Ishan Nadeera's Github stats" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishannadeera&show_icons=true&locale=en&layout=compact" alt="Ishan Nadeera's Github most used languages" /></p>
 
-<br/><br/><br/>
+<br/><br/>
 
 ## Languages and Tools :
 <br/>
