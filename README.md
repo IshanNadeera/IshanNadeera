@@ -1,5 +1,5 @@
 <a href="https://github.com/IshanNadeera"><img width="100%" height="200" src="https://user-images.githubusercontent.com/86223874/160270805-4eb54749-9f3d-4ee7-a235-a27cbdd09a4f.svg" height="100px"/></a>
-<h1 align="center">Hi 👋, I'm Ishan Nadeera</h1>
+<h1 align="center">Hi 👋, I'm Ishan Fernando</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka and I work hard to keep my passion alive. I enjoy learning new frameworks, languages and problem solving skills. and i am passionate about sharing my ideas with other developers.</h3>
 <br/>
 
