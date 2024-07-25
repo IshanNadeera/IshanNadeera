@@ -5,7 +5,7 @@
 
 ## About Me 🤗
 
-- 🌱 I’m currently learning **BSc (Hons) in Information Technology Specialising in Software Engineering**
+- 🌱 I’m graduated from SLIIT With a **BSc (Hons) in Information Technology Specialising in Software Engineering**
 
 - 📫 How to reach me **fernando.ishannadeera@gmail.com**
 
